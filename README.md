@@ -1,1 +1,1 @@
-# software_engineering_students_api
+# Малинин Никита Максимович
